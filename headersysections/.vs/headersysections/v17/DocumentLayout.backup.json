@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\source\\repos\\headersysections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1AD9-67FB-42A4-8985-70195392F955}|headersysections\\headersysections.vcxproj|C:\\Users\\aaron\\source\\repos\\headersysections\\headersysections\\headersysections.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6CE1AD9-67FB-42A4-8985-70195392F955}|headersysections\\headersysections.vcxproj|solutionrelative:headersysections\\headersysections.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "headersysections.cpp",
+              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\headersysections\\headersysections\\headersysections.cpp",
+              "RelativeDocumentMoniker": "headersysections\\headersysections.cpp",
+              "ToolTip": "C:\\Users\\aaron\\source\\repos\\headersysections\\headersysections\\headersysections.cpp",
+              "RelativeToolTip": "headersysections\\headersysections.cpp",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAawJoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T13:14:54.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
