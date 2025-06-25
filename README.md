@@ -1,4 +1,4 @@
-#Manual Mapping en Windows x64
+# Manual Mapping en Windows x64
 ## 1. Introducción
 ### 1.1 ¿Qué es un archivo PE (Portable Executable)?
 
